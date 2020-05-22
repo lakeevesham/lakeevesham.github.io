@@ -23,6 +23,7 @@ Important dates and links for this primary
 ==========================================
 
 * This is a **mail-in** election. Ballots must be postmarked by **June 2, 2020**
+* Use [the Voter Lookup tool](https://voterservices.elections.maryland.gov/VoterSearch) to see the status of your ballot
 * To register to vote or to change your name, address, or party affiliation, you must do so by **Wednesday, May 27, 2020**
 * Use [Maryland's Online Voter Registration System](https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1) to check your registration, update your information, or register to vote
 * If you have not received your ballot in the mail by **May 22, 2020** [contact the board of elections](https://boe.baltimorecity.gov)
