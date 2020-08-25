@@ -11,6 +11,8 @@ An accurate census is [vital to our democracy](https://2020census.gov/en/census-
 
 The new deadline is **September 30, 2020**, a month earlier than originally allowed. So, don't wait to respond.
 
+In addition, Census is still [looking for temporary part-time help](https://2020census.gov/en/jobs.html) completing the census. Check out [the FAQ](https://2020census.gov/en/jobs/faqs.html) if you have questions about these positions.
+
 2020 Census Stats
 -----------------
 
