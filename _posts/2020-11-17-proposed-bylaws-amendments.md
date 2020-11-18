@@ -9,4 +9,6 @@ As mentioned at the November 2020 Annual meeting, the Lake Evesham Board has pro
 
 Information on when and how to vote on these amendments will be updated on this page at a later date.
 
+Please submit any feedback on these amendments via [this Nextdoor post](https://nextdoor.com/p/Z8pyB85WCY_n?view=detail).
+
 <iframe src="/assets/bylaws/leca_bylaws_2020_proposal.pdf" width="100%" height="600px"></iframe>
