@@ -24,4 +24,8 @@ voted on at the December 7th meeting.
 Please submit any feedback on these amendments via
 [this Nextdoor post](https://nextdoor.com/p/Z8pyB85WCY_n?view=detail).
 
+### Update 3
+
+The proposed bylaws unanimously passed at a Zoom meeting on December 7, 2020.
+
 <iframe src="/assets/bylaws/leca_bylaws_2020_proposal_final.pdf" width="100%" height="600px"></iframe>
