@@ -8,6 +8,7 @@ title: Newsletters
 
 The Lake Evesham Board of Directors publishes a newsletter on a quarterly basis.
 
+* [January 2021](/assets/newsletters/january_2021_newsletter.pdf)
 * [June 2020](/assets/newsletters/june_2020_newsletter.pdf)
 * [February 2020](/assets/newsletters/february_2020_newsletter.pdf)
 * [September 2019](/assets/newsletters/september_2019_newsletter.pdf)
