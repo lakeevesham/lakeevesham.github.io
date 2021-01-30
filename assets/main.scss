@@ -7,3 +7,17 @@ dt {
   font-weight: bold;
   margin-top: 10px;
 }
+
+.image-right {
+  width: 50%;
+  float: right;
+  padding: 10px;
+  padding-right: 0;
+}
+
+.image-left {
+  width: 50%;
+  float: left;
+  padding: 10px;
+  padding-left: 0;
+}
