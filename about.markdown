@@ -1,14 +1,30 @@
 ---
 layout: page
-title: About
+title: About Lake Evesham
 permalink: /about/
 ---
+
+History of the Neighborhood
+---------------------------
 
 Lake Evesham is a neighborhood in Baltimore, Maryland, comprising about 250 households.
 
 The neighborhood rests between Northern Parkway and York Road, near Belvedere market as well the Senator Theatre.
 
 Founded in the 1890s, Lake Evesham originally was joined with the community of Midwood in the 1870s. The property was split up and Lake Evesham was formed. The historic area developed from 1870-1940 and the architectural styles are evident of this. Various styles of the post-war era include bungalows, Victorian style facades and classic houses from the early 1900s.
+
+How to Join the Neighborhood Assocation
+---------------------------------------
+
+In order to join the Lake Evesham Neighborhood Association, you must be 18 years old or older, reside within the neighborhood<sup>*</sup>,
+and have paid dues for the current year.
+
+Dues are currently **$15/person** or **$25/household**. They can be paid by check made out to _Lake Evesham Community Association_ and mailed to **P.O. Box 4692 Baltimore, MD 21212** or brought to a neighborhood event.
+Dues can also be paid via [Paypal](https://paypal.me/lakeevesham). If you pay by PayPal, [send Macky an email](mailto:mackyayers@gmail.com) to let her know. If possible, try to pay in person or by check so the community can avoid PayPal fees.
+
+
+<sup>*</sup> The neighborhood is the area bounded by York Road to the east, Northern Parkway to the south, Bellona Avenue to the west, and Lake Avenue to the north,
+and also including the following properties on the north side of Lake Avenue: 308 through 426 East Lake Avenue (even-numbered addresses), and 6100, 6108, and 6110 York Road.
 
 Board of Directors
 ------------------

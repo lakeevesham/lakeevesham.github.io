@@ -6,6 +6,6 @@ layout: home
 list_title: Updates
 ---
 
-<img src="/img/sign.jpg">
+![Lake Evesham Neighborhood Sign](/img/sign.jpg)
 
 The future home for Lake Evesham event calendar and updates. For now, visit us on [NextDoor](https://nextdoor.com)
