@@ -7,11 +7,27 @@ permalink: /about/
 History of the Neighborhood
 ---------------------------
 
-Lake Evesham is a neighborhood in Baltimore, Maryland, comprising about 250 households.
+The neighborhood known as Lake Evesham (also identified in some sources as Kenneth Square) was a major part of Midwood, the 1870’s estate of Samuel Brady.
+In the 1890’s the northern three-quarters of the property was divided and held by six landowners. The largest parcel, consisting of a mansion and numerous outbuildings, was called Chestnut Park and was owned by John Phillips.
 
-The neighborhood rests between Northern Parkway and York Road, near Belvedere market as well the Senator Theatre.
+The neighborhood does not have a lake in it, as people sometimes mistakenly assume. Rather, the name comes from the Evesham Mansion that was built in the 1850’s and described as neo-gothic fantasy.
+The mansion was demolished in 1961. It was located near what is now the intersection of Northern Parkway and Tunstall Drive, east of York Road, in what was known as Drumquehastle Tract (from which the name Drumcastle is derived).
+The current neighborhood boundaries are Norther Parkway to the south, Lake Avenue to the north, York Road to the east and Bellona Avenue to the west.  
 
-Founded in the 1890s, Lake Evesham originally was joined with the community of Midwood in the 1870s. The property was split up and Lake Evesham was formed. The historic area developed from 1870-1940 and the architectural styles are evident of this. Various styles of the post-war era include bungalows, Victorian style facades and classic houses from the early 1900s.
+The initial houses in the neighborhood were built in the first decade of the twentieth century.
+Many of the frame cottages were built during the housing boom following World War I. Streets were unpaved until the 1920’s.
+By the late 1930’s all of the present streets were in place and most of the lots were improved.  
+
+In 2004, the neighborhood was designated an Historic District with the National Registry due in part to the neighborhood’s architectural design and structure of its roads and homes.
+There are a variety of architectural styles, but the most frequently occurring style is the Bungalow, a one and one half story style that features a low-pitched gabled roof with wide unenclosed eave overhang.
+Other styles include Victorian Gothic with multiple gables, Folk Victorian with Victorian decorative detailing on simple folk house forms,
+American Foursquare with two stories and multi-windowed dormers on the front, Dutch Colonial, Tudor Revival, Federal Revival and Cape Cod Revival.
+Several houses in the neighborhood were constructed by an early African-American Baltimore builder, John B. Smith.
+
+A large house, which may have been the Chestnut Park Mansion, located between Pinehurst and Sycamore Roads,
+was razed in the late 1950’s and replaced by the Pinehurst Apartments.
+Today, Lake Evesham is a vibrant diverse neighborhood of approximately 260 homes, the majority of which are owner-occupied. Additionally, the neighborhood has two apartment complexes and rental homes.
+
 
 How to Join the Neighborhood Assocation
 ---------------------------------------
