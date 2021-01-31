@@ -18,4 +18,4 @@ upcoming_events:
 
 ![Lake Evesham Neighborhood Sign](/img/sign.jpg)
 
-The future home for Lake Evesham event calendar and updates. For now, visit us on [NextDoor](https://nextdoor.com)
+Your home for Lake Evesham event calendar and updates. We also post event updates and conversation on [NextDoor](https://nextdoor.com)
