@@ -21,8 +21,7 @@
 title: Lake Evesham
 author: Lake Evesham Community Association
 description: >- # this means to ignore newlines until "baseurl:"
-  Event updates for Lake Evesham Community Assocation in Baltimore, MD
-  You can also find us on NextDoor: https://nextdoor.com
+  Event updates for the Lake Evesham Community Assocation in Baltimore, MD.
 show_excerpts: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.lakeevesham.org" # the base hostname & protocol for your site, e.g. http://example.com

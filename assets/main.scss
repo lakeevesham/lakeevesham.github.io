@@ -1,9 +1,9 @@
 ---
 ---
 
-@import "minima";
+$wide-content-width: 1024px;
 
-$column-content-width: 1024px !default;
+@import "minima";
 
 
 dt {
@@ -30,18 +30,18 @@ dt {
 }
 
 .wide-wrapper {
-  max-width: -webkit-calc(#{$column-content-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$column-content-width} - (#{$spacing-unit} * 2));
+  max-width: -webkit-calc(#{$wide-content-width} - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$wide-content-width} - (#{$spacing-unit} * 2));
 
   @include media-query($on-laptop) {
-    max-width: -webkit-calc(#{$column-content-width} - (#{$spacing-unit}));
-    max-width:         calc(#{$column-content-width} - (#{$spacing-unit}));
+    max-width: -webkit-calc(#{$wide-content-width} - (#{$spacing-unit}));
+    max-width:         calc(#{$wide-content-width} - (#{$spacing-unit}));
   }
 }
 
 .columns {
   display: grid;
-  grid-template-columns: auto calc((#{$column-content-width} - (#{$spacing-unit} * 2)) / 3);
+  grid-template-columns: auto calc((#{$wide-content-width} - (#{$spacing-unit} * 2)) / 3);
   column-gap: $spacing-unit;
 
   @include media-query($on-laptop) {
@@ -65,4 +65,8 @@ dt {
       }
     }
   }
+}
+
+.footer-col-wrapper {
+  margin-left: 0;
 }
