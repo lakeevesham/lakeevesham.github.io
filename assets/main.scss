@@ -3,6 +3,9 @@
 
 @import "minima";
 
+$column-content-width: 1024px !default;
+
+
 dt {
   font-weight: bold;
   margin-top: 10px;
@@ -20,4 +23,46 @@ dt {
   float: left;
   padding: 10px;
   padding-left: 0;
+}
+
+.post-list {
+  @extend %clearfix;
+}
+
+.wide-wrapper {
+  max-width: -webkit-calc(#{$column-content-width} - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$column-content-width} - (#{$spacing-unit} * 2));
+
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$column-content-width} - (#{$spacing-unit}));
+    max-width:         calc(#{$column-content-width} - (#{$spacing-unit}));
+  }
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: auto calc((#{$column-content-width} - (#{$spacing-unit} * 2)) / 3);
+  column-gap: $spacing-unit;
+
+  @include media-query($on-laptop) {
+    display: block;
+  }
+
+  & .event-sidebar {
+    border: 1px solid black;
+    padding: $spacing-unit / 2;
+
+    .event-details {
+      margin-top: $spacing-unit / 2;
+
+      .event-date {
+        font-weight: bold;
+      }
+
+      .event-name {
+        margin-top: $spacing-unit / 4;
+        padding-left: $spacing-unit / 2;
+      }
+    }
+  }
 }

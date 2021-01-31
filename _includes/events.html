@@ -1,0 +1,17 @@
+{%- if page.upcoming_events.size > 0 -%}
+  {%- assign date_format = "%B %-d, %Y" -%}
+  {%- for event in page.upcoming_events -%}
+    <div class="event-details">
+      <div class="event-date">{{ event.date | date: date_format }}</div>
+      <div class="event-name">
+        {%- if event.url -%}
+          <a href="{{event.url}}">{{ event.name }}</a>
+        {%- else -%}
+          {{ event.name }}
+        {%- endif -%}
+      </div>
+    </div>
+  {%- endfor -%}
+{%- else -%}
+  <p>Nothing planned yet. Keep an eye on this space for updates.</p>
+{%- endif -%}
