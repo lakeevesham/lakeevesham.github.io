@@ -5,9 +5,6 @@
 layout: home
 list_title: Updates
 upcoming_events:
-  - name: 2021 Event Planning Zoom Call
-    date: February 16, 2021 @ 7:30pm
-    url: /events/update/2021/01/24/community-event-planning-meeting.html
   - name: Shop Local Week
     date: February 21-27, 2021
     url: /events/update/2021/02/11/shop-local-weeks.html
