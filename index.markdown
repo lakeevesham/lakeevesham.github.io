@@ -11,11 +11,13 @@ upcoming_events:
   - name: Shop Local Week
     date: April 18-24, 2021
     url: /events/update/2021/02/11/shop-local-weeks.html
-  - name: Community Yard Sale & Dumpster
-    date: Spring 2021
+  - name: Community Yard Sale
+    date: May 15, 2021
   - name: Shop Local Week
     date: May 16-22, 2021
     url: /events/update/2021/02/11/shop-local-weeks.html
+  - name: Community Dumpster
+    date: May 22, 2021
   - name: Shop Local Week
     date: June 20-26, 2021
     url: /events/update/2021/02/11/shop-local-weeks.html
