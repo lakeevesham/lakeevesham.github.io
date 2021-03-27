@@ -13,6 +13,7 @@ upcoming_events:
     url: /events/update/2021/02/11/shop-local-weeks.html
   - name: Community Yard Sale
     date: May 15, 2021
+    url: /events/update/2021/03/26/five-community-yard-sale.html
   - name: Shop Local Week
     date: May 16-22, 2021
     url: /events/update/2021/02/11/shop-local-weeks.html
