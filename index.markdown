@@ -6,9 +6,6 @@ layout: home
 list_title: Updates
 upcoming_events:
   - name: Shop Local Week
-    date: March 21-27, 2021
-    url: /events/update/2021/02/11/shop-local-weeks.html
-  - name: Shop Local Week
     date: April 18-24, 2021
     url: /events/update/2021/02/11/shop-local-weeks.html
   - name: Community Yard Sale
