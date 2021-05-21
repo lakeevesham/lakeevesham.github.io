@@ -10,6 +10,7 @@ upcoming_events:
     url: /events/update/2021/02/11/shop-local-weeks.html
   - name: Community Dumpster
     date: May 22, 2021
+    url: /events/update/2021/05/21/2021-neighborhood-dumpster.html
   - name: District 4 Town Hall
     date: May 24, 2021, 6pm
     url: /events/update/2021/05/19/district-4-town-hall.html
