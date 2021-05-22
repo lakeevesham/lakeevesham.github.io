@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2021 Neighborhood Dumpster
+title: 2021 Neighborhood Dumpster - Updated
 categories: events update
 ---
 
@@ -11,3 +11,7 @@ The dumpster is available to any Lake Evesham Community Association member and c
 Please do not put hazardous material, building construction debris, electronics, batteries, or tires in the dumpster. These have to be disposed of properly on hazardous materials drop off days.
 
 We don't yet know what time the dumpster will be delivered, but it will be there for **4 hours** once it is delivered. Keep an eye on the corner and we'll update this post when we notice the delivery.
+
+### Update
+
+The dumpster is in place now at the corner of Melrose and Sycamore.
