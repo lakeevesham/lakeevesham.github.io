@@ -6,15 +6,6 @@ layout: home
 list_title: Updates
 upcoming_events:
   - name: Shop Local Week
-    date: May 16-22, 2021
-    url: /events/update/2021/02/11/shop-local-weeks.html
-  - name: Community Dumpster
-    date: May 22, 2021
-    url: /events/update/2021/05/21/2021-neighborhood-dumpster.html
-  - name: District 4 Town Hall
-    date: May 24, 2021, 6pm
-    url: /events/update/2021/05/19/district-4-town-hall.html
-  - name: Shop Local Week
     date: June 20-26, 2021
     url: /events/update/2021/02/11/shop-local-weeks.html
   - name: Shop Local Week
