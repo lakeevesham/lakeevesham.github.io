@@ -8,6 +8,9 @@ upcoming_events:
   - name: Shop Local Week
     date: June 20-26, 2021
     url: /events/update/2021/02/11/shop-local-weeks.html
+  - name: Five Community Cleanup
+    date: June 26, 2021
+    url: /events/update/2021/06/19/five-community-cleanup.html
   - name: Shop Local Week
     date: July 18-24, 2021
     url: /events/update/2021/02/11/shop-local-weeks.html
