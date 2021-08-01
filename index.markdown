@@ -7,7 +7,7 @@ list_title: Updates
 upcoming_events:
   - name: Community Front Porch Dinner
     date: August 16, 2021
-    url: /events/update/2021/08/01/front-port-dinner.html
+    url: /events/update/2021/08/01/front-porch-dinner.html
   - name: Shop Local Week
     date: August 15-21, 2021
     url: /events/update/2021/02/11/shop-local-weeks.html
