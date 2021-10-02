@@ -5,22 +5,11 @@
 layout: home
 list_title: Updates
 upcoming_events:
-  - name: Community Front Porch Dinner
-    date: August 16, 2021
-    url: /events/update/2021/08/01/front-porch-dinner.html
-  - name: Shop Local Week
-    date: August 15-21, 2021
-    url: /events/update/2021/02/11/shop-local-weeks.html
-  - name: Shop Local Week
-    date: September 19-25, 2021
-    url: /events/update/2021/02/11/shop-local-weeks.html
-  - name: Crab Feast
-    date: Fall 2021
   - name: Shop Local Week
     date: October 17-23, 2021
     url: /events/update/2021/02/11/shop-local-weeks.html
   - name: Annual Meeting
-    date: November 2021
+    date: November 8, 2021 @ 7pm
   - name: Shop Local Week
     date: November 21-27, 2021
     url: /events/update/2021/02/11/shop-local-weeks.html
