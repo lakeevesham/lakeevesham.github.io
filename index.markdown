@@ -5,18 +5,14 @@
 layout: home
 list_title: Updates
 upcoming_events:
-  - name: Shop Local Week
-    date: October 17-23, 2021
-    url: /events/update/2021/02/11/shop-local-weeks.html
-  - name: Mayor's Cleanup
-    date: "October 23, 2021: 9am-12pm"
-    url: /events/update/2021/10/10/mayor-s-cleanup.html
   - name: Community Garden Cleanup
     date: November 6, 2021
+    url: /events/update/2021/10/25/community-garden-events.html
   - name: Annual Meeting
     date: November 8, 2021 @ 7pm
   - name: Community Garden Cleanup
     date: November 13, 2021
+    url: /events/update/2021/10/25/community-garden-events.html
   - name: Shop Local Week
     date: November 21-27, 2021
     url: /events/update/2021/02/11/shop-local-weeks.html
