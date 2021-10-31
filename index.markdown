@@ -10,6 +10,7 @@ upcoming_events:
     url: /events/update/2021/10/25/community-garden-events.html
   - name: Annual Meeting
     date: November 8, 2021 @ 7pm
+    url: /events/update/2021/10/31/2021-annual-meeting.html
   - name: Community Garden Cleanup
     date: November 13, 2021
     url: /events/update/2021/10/25/community-garden-events.html
