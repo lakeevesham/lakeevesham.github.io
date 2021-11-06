@@ -24,3 +24,9 @@ Remember that all 4 officer positions and 7 at-large positions are open to elect
 each year. If you would like to nominate yourself or someone else for a position, please
 [email Ryan Ahearn](mailto:ryan.ahearn@hey.com). The only requirement to run is that the person
 is a member of the association.
+
+Update
+------
+
+The zoom link can be found on [the Nextdoor event page](https://nextdoor.com/events/4178981/).
+Please [email Ryan Ahearn](mailto:ryan.ahearn@hey.com) if you cannot access the event info there.
