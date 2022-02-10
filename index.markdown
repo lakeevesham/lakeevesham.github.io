@@ -5,21 +5,22 @@
 layout: home
 list_title: Updates
 upcoming_events:
-  - name: Community Garden Cleanup
-    date: November 6, 2021
-    url: /events/update/2021/10/25/community-garden-events.html
+  - name: Free Document Shredding
+    date: First wednesday of every month
+  - name: Evesham Ave Cleanup
+    date: April 2022
+  - name: Community Yard Sale
+    date: May 2022
+  - name: Neighborhood Dumpster
+    date: May 2022
+  - name: Father's Day Ice Cream Social
+    date: June 2022
+  - name: Block Party
+    date: Summer 2022
+  - name: Chicken and Shrimp Feast
+    date: September or October, 2022
   - name: Annual Meeting
-    date: November 8, 2021 @ 7pm
-    url: /events/update/2021/10/31/2021-annual-meeting.html
-  - name: Community Garden Cleanup
-    date: November 13, 2021
-    url: /events/update/2021/10/25/community-garden-events.html
-  - name: Shop Local Week
-    date: November 21-27, 2021
-    url: /events/update/2021/02/11/shop-local-weeks.html
-  - name: Shop Local Week
-    date: December 19-25, 2021
-    url: /events/update/2021/02/11/shop-local-weeks.html
+    date: November 2022
 ---
 
 ![Lake Evesham Neighborhood Sign](/img/sign.jpg)
