@@ -8,7 +8,8 @@ upcoming_events:
   - name: Free Document Shredding
     date: First wednesday of every month
   - name: Evesham Ave Cleanup
-    date: April 2022
+    date: April 23, 2022
+    url: /events/update/2022/04/04/evesham-ave-cleanup.html
   - name: Community Yard Sale
     date: May 2022
   - name: Neighborhood Dumpster
