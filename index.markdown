@@ -11,9 +11,9 @@ upcoming_events:
     date: April 23, 2022
     url: /events/update/2022/04/04/evesham-ave-cleanup.html
   - name: Community Yard Sale
-    date: May 2022
+    date: May 21, 2022 (rain date May 22)
   - name: Neighborhood Dumpster
-    date: May 2022
+    date: June 4 2022
   - name: Father's Day Ice Cream Social
     date: June 2022
   - name: Block Party
