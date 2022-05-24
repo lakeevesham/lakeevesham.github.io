@@ -12,6 +12,7 @@ upcoming_events:
     url: /events/update/2022/05/12/community-yard-sale.html
   - name: Neighborhood Dumpster
     date: June 4 2022
+    url: /events/update/2022/05/24/community-dumpster.html
   - name: Father's Day Ice Cream Social
     date: June 2022
   - name: Block Party

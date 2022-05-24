@@ -36,7 +36,6 @@ In order to join the Lake Evesham Neighborhood Association, you must be 18 years
 and have paid dues for the current year.
 
 Dues are currently **$15/person** or **$25/household**. They can be paid by check made out to _Lake Evesham Community Association_ and mailed to **P.O. Box 4692 Baltimore, MD 21212** or brought to a neighborhood event.
-Dues can also be paid via [Paypal](https://paypal.me/lakeevesham). If you pay by PayPal, [send Melina an email](mailto:melinaturtle@gmail.com) to let her know. If possible, try to pay in person or by check so the community can avoid PayPal fees.
 
 
 <sup>*</sup> The neighborhood is the area bounded by York Road to the east, Northern Parkway to the south, Bellona Avenue to the west, and Lake Avenue to the north,
@@ -49,7 +48,7 @@ Board of Directors
 <dt>President</dt>
 <dd>Theresa Furnari</dd>
 <dt>Vice-President</dt>
-<dd>Anthony Cataldo</dd>
+<dd>Tymoteusz Kaistura</dd>
 <dt>Secretary</dt>
 <dd>Ryan Ahearn</dd>
 <dt>Treasurer</dt>
@@ -59,10 +58,11 @@ Board of Directors
 <ul>
 <li>Malik Jordan</li>
 <li>Jack Fishman</li>
-<li>Andy McNeely</li>
 <li>Stephanie Seipp</li>
 <li>Steve Lingsch</li>
-<li>Tymoteusz Kaistura</li>
+<li>Amena Smith</li>
+<li>Darnell Henderson</li>
+<li>Charlotte Walters</li>
 </ul>
 </dd>
 </dl>
