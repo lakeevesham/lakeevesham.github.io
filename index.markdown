@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 list_title: Updates
 upcoming_events:
@@ -15,8 +12,8 @@ upcoming_events:
     url: /events/update/2022/05/24/community-dumpster.html
   - name: Father's Day Ice Cream Social
     date: June 2022
-  - name: Block Party
-    date: Summer 2022
+  - name: Garden Tours
+    date: July 2022
   - name: Chicken and Shrimp Feast
     date: September or October, 2022
   - name: Annual Meeting
