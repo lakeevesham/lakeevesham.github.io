@@ -4,7 +4,7 @@ backend:
   branch: main
   open_authoring: true
 publish_mode: editorial_workflow
-media_folder: 'assets'
+media_folder: 'img'
 collections:
   - name: 'posts'
     label: 'Posts'
@@ -15,5 +15,41 @@ collections:
     fields:
       - { name: layout, widget: hidden, default: post }
       - { name: title }
-      - { name: categories }
+      - { name: categories, required: false }
       - { name: body, widget: markdown }
+  - name: 'pages'
+    label: 'Pages'
+    files:
+      - label: 'Home page'
+        name: 'index'
+        file: 'index.markdown'
+        fields:
+          - { name: list_title }
+          - name: upcoming_events
+            widget: list
+            fields:
+              - { name: name }
+              - { name: date }
+              - { name: url, required: false }
+          - { name: body, widget: markdown }
+      - label: 'About page'
+        name: 'about'
+        file: 'about.markdown'
+        fields:
+          - { name: title }
+          - { name: permalink }
+          - { name: body, widget: markdown }
+      - label: 'Newsletters page'
+        name: 'newsletters'
+        file: 'newsletters.markdown'
+        fields:
+          - { name: title }
+          - { name: permalink }
+          - { name: body, widget: markdown }
+      - label: 'Garden page'
+        name: 'garden'
+        file: 'garden.markdown'
+        fields:
+          - { name: title }
+          - { name: permalink }
+          - { name: body, widget: markdown }
