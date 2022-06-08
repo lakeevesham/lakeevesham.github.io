@@ -4,6 +4,7 @@
 
 layout: page
 title: Newsletters
+permalink: /newsletters/
 ---
 
 The Lake Evesham Board of Directors publishes a newsletter on a quarterly basis.
