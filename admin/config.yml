@@ -1,0 +1,19 @@
+backend:
+  name: github
+  repo: "lakeevesham/lakeevesham.github.io"
+  branch: main
+  open_authoring: true
+publish_mode: editorial_workflow
+media_folder: 'assets'
+collections:
+  - name: 'posts'
+    label: 'Posts'
+    label_singular: 'Post'
+    folder: '_posts/'
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: layout, widget: hidden, default: post }
+      - { name: title }
+      - { name: categories }
+      - { name: body, widget: markdown }
