@@ -4,6 +4,11 @@ title: About Lake Evesham
 permalink: /about/
 ---
 
+Welcome to the Neighborhood
+---------------------------
+
+We've put together a [Welcome to Lake Evesham](/assets/Welcome_to_Lake_Evesham.pdf) packet for new residents with a wealth of information about our area and city services.
+
 History of the Neighborhood
 ---------------------------
 
@@ -36,7 +41,6 @@ In order to join the Lake Evesham Neighborhood Association, you must be 18 years
 and have paid dues for the current year.
 
 Dues are currently **$15/person** or **$25/household**. They can be paid by check made out to _Lake Evesham Community Association_ and mailed to **P.O. Box 4692 Baltimore, MD 21212** or brought to a neighborhood event.
-
 
 <sup>*</sup> The neighborhood is the area bounded by York Road to the east, Northern Parkway to the south, Bellona Avenue to the west, and Lake Avenue to the north,
 and also including the following properties on the north side of Lake Avenue: 308 through 426 East Lake Avenue (even-numbered addresses), and 6100, 6108, and 6110 York Road.
