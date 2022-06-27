@@ -4,11 +4,9 @@ list_title: Updates
 upcoming_events:
   - name: Free Document Shredding
     date: First wednesday of every month
-  - name: Father's Day Ice Cream Social
-    date: June 19, 2022 4-6 pm
-    url: /events/update/2022/06/14/father-s-day-ice-cream-social.html
   - name: Garden Tours
-    date: July 2022
+    date: July 9, 2022
+    url: /events/update/2022/06/27/neighborhood-garden-tour.html
   - name: Chicken and Shrimp Feast
     date: September or October, 2022
   - name: Annual Meeting
