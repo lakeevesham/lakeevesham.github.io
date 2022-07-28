@@ -4,9 +4,6 @@ list_title: Updates
 upcoming_events:
   - name: Free Document Shredding
     date: First wednesday of every month
-  - name: Garden Tours
-    date: Mid-August, 2022
-    url: /events/update/2022/06/27/neighborhood-garden-tour.html
   - name: Chicken and Shrimp Feast
     date: September or October, 2022
   - name: Annual Meeting
