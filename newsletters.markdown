@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: Newsletters
 permalink: /newsletters/
@@ -9,7 +6,7 @@ permalink: /newsletters/
 
 The Lake Evesham Board of Directors publishes a newsletter on a quarterly basis.
 
-* [July 2022](/assets/newsletters/July_2022_newsletter.pdf)
+* [July 2022](/assets/newsletters/july_2022_newsletter.pdf)
 * [February 2022](/assets/newsletters/february_2022_newsletter.pdf)
 * [October 2021](/assets/newsletters/october_2021_newsletter.pdf)
 * [April 2021](/assets/newsletters/april_2021_newsletter.pdf)
