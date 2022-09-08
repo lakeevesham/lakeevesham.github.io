@@ -12,7 +12,7 @@ Responsibilities:
 * Attend the monthly Commander’s Meetings, held on the second Wednesday of each month from 7pm to 8-8:30pm, usually at the ND Headquarters at 2201 W Cold Spring Ln, Baltimore, MD, 21211. Currently, these meetings are hybrid – in person and Zoom – but in person attendance is encouraged. The purpose of these meetings is to keep the community informed of the events and activities going on in the Department and the ND. Crime statistics and trends are discussed.
 * Bring up any issues that Lake Evesham residents or community association officers have raised.
 * Prepare a written summary of the discussion, with emphasis on what is of special interest to the residents of the Lake Evesham community.
-* Post the notes on Next Door/Lake Evesham in a timely manner.
+* Post the notes on NextDoor/Lake Evesham in a timely manner.
 
 ## Northern District Community Relations Council Meetings
 
