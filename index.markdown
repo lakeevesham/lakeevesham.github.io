@@ -5,9 +5,9 @@ upcoming_events:
   - name: Free Document Shredding
     date: First wednesday of every month
   - name: Chicken and Shrimp Feast
-    date: September or October, 2022
+    date: October 22, 2022 3pm-dark
   - name: Annual Meeting
-    date: November 2022
+    date: November 14, 2022 @ 7pm
 ---
 
 ![Lake Evesham Neighborhood Sign](/img/sign.jpg)
