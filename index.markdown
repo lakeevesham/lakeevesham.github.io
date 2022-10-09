@@ -4,8 +4,9 @@ list_title: Updates
 upcoming_events:
   - name: Free Document Shredding
     date: First wednesday of every month
-  - name: Chicken and Shrimp Feast
-    date: October 22, 2022 3pm-dark
+  - name: Shrimp and Chicken Feast
+    date: October 22, 2022 3pm-7pm
+    url: /events/2022/10/08/shrimp-chicken-feast.html
   - name: Annual Meeting
     date: November 14, 2022 @ 7pm
 ---
