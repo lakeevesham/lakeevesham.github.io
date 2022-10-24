@@ -4,11 +4,9 @@ list_title: Updates
 upcoming_events:
   - name: Free Document Shredding
     date: First wednesday of every month
-  - name: Shrimp and Chicken Feast
-    date: October 22, 2022 3pm-7pm
-    url: /events/2022/10/08/shrimp-chicken-feast.html
-  - name: Annual Meeting
+  - name: Annual Meeting @ Zen West
     date: November 14, 2022 @ 7pm
+    url: /events/update/2022/10/24/lake-evesham-community-association-board-nominations.html
 ---
 
 ![Lake Evesham Neighborhood Sign](/img/sign.jpg)
