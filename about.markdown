@@ -50,23 +50,23 @@ Board of Directors
 
 <dl>
 <dt>President</dt>
-<dd>Theresa Furnari</dd>
+<dd>Steve Lingsch</dd>
 <dt>Vice-President</dt>
 <dd>Tymoteusz Kaistura</dd>
 <dt>Secretary</dt>
-<dd>Ryan Ahearn</dd>
+<dd>Joel Carlin</dd>
 <dt>Treasurer</dt>
 <dd>Melina Turtle</dd>
 <dt>Members-at-Large</dt>
 <dd>
 <ul>
 <li>Malik Jordan</li>
-<li>Jack Fishman</li>
 <li>Stephanie Seipp</li>
-<li>Steve Lingsch</li>
 <li>Amena Smith</li>
 <li>Darnell Henderson</li>
 <li>Charlotte Walters</li>
+<li>Charlene Jordan</li>
+<li>Mike Fielder</li>
 </ul>
 </dd>
 </dl>
