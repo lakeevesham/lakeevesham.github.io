@@ -12,4 +12,4 @@ Come join your neighbors for two events on **Saturday, March 25, 2023**.
 
 ## Pot Luck
 
-**4:00pm** Community Pot Luck at the Church of the Nativity in Cedarcroft.
+**4:00pm** Community Pot Luck at the Church of the Nativity in Cedarcroft. Please return the [RSVP form](/assets/events/LECA_potluck_March_2023.pdf) by March 24th.
