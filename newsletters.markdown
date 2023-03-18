@@ -6,6 +6,7 @@ permalink: /newsletters/
 
 The Lake Evesham Board of Directors publishes a newsletter on a quarterly basis.
 
+* [March 2023](/assets/newsletters/march_2023_newsletter.pdf)
 * [December 2022](/assets/newsletters/december_2022_newsletter.pdf)
 * [July 2022](/assets/newsletters/july_2022_newsletter.pdf)
 * [February 2022](/assets/newsletters/february_2022_newsletter.pdf)
