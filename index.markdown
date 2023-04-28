@@ -2,14 +2,9 @@
 layout: home
 list_title: Updates
 upcoming_events:
-  - name: Replanting the Community Garden
-    date: March 25, 2023 @ 9am
-    url: /events/2023/03/18/march-25th-events.html
-  - name: Pot Luck Dinner
-    date: March 25, 2023 @ 4pm
-    url: /events/2023/03/18/march-25th-events.html
   - name: Community Yard Sale
-    date: May 2023
+    date: May 13, 2023
+    url: /events/2023/04/28/2023-community-yard-sale.html
   - name: Ice Cream Social
     date: June 2023
   - name: Garden Tour
