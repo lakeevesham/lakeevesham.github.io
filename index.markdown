@@ -2,17 +2,9 @@
 layout: home
 list_title: Updates
 upcoming_events:
-  - name: Community Yard Sale
-    date: May 13, 2023
-    url: /events/2023/04/28/2023-community-yard-sale.html
-  - name: Ice Cream Social
-    date: June 2023
-  - name: Garden Tour
-    date: July 2023
-  - name: Shrimp & Chicken Feast
-    date: September or October 2023
-  - name: Annual Meeting
-    date: November 2023
+  - name: Community Garden Cleanup
+    date: March 30th, 9am-noon
+    url: /events/2024/03/28/community-garden-event
 ---
 
 ![Lake Evesham Neighborhood Sign](/img/sign.jpg)
