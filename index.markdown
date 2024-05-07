@@ -2,9 +2,10 @@
 layout: home
 list_title: Updates
 upcoming_events:
-  - name: Community Garden Cleanup
-    date: March 30th, 9am-noon
-    url: /events/2024/03/28/community-garden-event
+  - name: Community Yard Sale
+    date: May 11, 2024, 8am-11am
+  - name: Community Dumpster
+    date: May 18, 2024, morning
 ---
 
 ![Lake Evesham Neighborhood Sign](/img/sign.jpg)
