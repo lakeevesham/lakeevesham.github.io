@@ -2,8 +2,6 @@
 layout: home
 list_title: Updates
 upcoming_events:
-  - name: Community Yard Sale
-    date: May 11, 2024, 8am-12pm
   - name: Community Dumpster
     date: May 18, 2024, morning
 ---
