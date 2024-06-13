@@ -2,8 +2,9 @@
 layout: home
 list_title: Updates
 upcoming_events:
-  - name: Community Dumpster
-    date: May 18, 2024, morning
+  - name: Ice Cream Social
+    date: June 23, 2024, 3-5pm
+    url: /events/2024/06/12/ice-cream-social.html
 ---
 
 ![Lake Evesham Neighborhood Sign](/img/sign.jpg)
