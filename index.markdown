@@ -2,9 +2,12 @@
 layout: home
 list_title: Updates
 upcoming_events:
-  - name: Ice Cream Social
-    date: June 23, 2024, 3-5pm
-    url: /events/2024/06/12/ice-cream-social.html
+  - name: Roots & Roofs
+    date: September 21, 2024, 10am-1pm
+    url: /events/2024/09/15/roots-and-roofs.html
+  - name: Shrimp & Chicken Feast
+    date: October 5, 2024, 3-7pm
+    url: /events/2024/09/15/shrimp-and-chicken.html
 ---
 
 ![Lake Evesham Neighborhood Sign](/img/sign.jpg)
