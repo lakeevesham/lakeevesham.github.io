@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2024 Shrimp and Chicken Feast
-date: 2024-09-15 08:33 -0400
+date: 2024-09-15 08:45 -0400
 categories: events
 ---
 
