@@ -2,6 +2,9 @@
 layout: home
 list_title: Updates
 upcoming_events:
+  - name: Roots & Roofs
+    date: September 21, 2024, 10am-1pm
+    url: /events/2024/09/15/roots-and-roofs.html
   - name: Shrimp & Chicken Feast
     date: October 5, 2024, 3-7pm
     url: /events/2024/09/15/shrimp-and-chicken.html
