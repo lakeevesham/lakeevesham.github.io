@@ -2,8 +2,9 @@
 layout: home
 list_title: Updates
 upcoming_events:
-  - name: Dumpster
-    date: November 2, 2024   
+  - name: Lake Evesham Annual Community Meeting
+    date: January 6, 2025
+    url: /2024/12/21/lake-evesham-annual-community-meeting.html
 ---
 
 ![Lake Evesham Neighborhood Sign](/img/sign.jpg)
