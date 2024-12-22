@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Lake Evesham Annual Community Meeting
-date: 2024-12-21 20:09 -0500
 ---
 
 We will be hosting our annual community meeting, open to all residents, on Monday, **January 6** at Zen West restaurant at **6:30 PM**. Come early and order your dinner!
