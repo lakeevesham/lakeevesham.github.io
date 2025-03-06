@@ -4,7 +4,7 @@ list_title: Updates
 upcoming_events:
   - name: Community Clean Up
     date: March 29, 2025 @ 9am
-    url: /events/2025/03/05/community-clean-up-day.html
+    url: /events/2025/03/06/community-clean-up-day.html
 ---
 
 ![Lake Evesham Neighborhood Sign](/img/sign.jpg)
