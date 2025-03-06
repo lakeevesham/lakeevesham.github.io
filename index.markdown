@@ -2,9 +2,9 @@
 layout: home
 list_title: Updates
 upcoming_events:
-  - name: Lake Evesham Annual Community Meeting
-    date: January 27, 2025
-    url: /2025/01/24/lake-evesham-annual-community-meeting.html
+  - name: Community Clean Up
+    date: March 29, 2025 @ 9am
+    url: /events/2025/03/05/community-clean-up-day.html
 ---
 
 ![Lake Evesham Neighborhood Sign](/img/sign.jpg)
