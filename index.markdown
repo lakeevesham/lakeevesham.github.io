@@ -2,9 +2,9 @@
 layout: home
 list_title: Updates
 upcoming_events:
-  - name: Yard Sale
-    date: May 10, 2025
-    url: /events/updates/2025/04/18/community-yard-sale.html
+  - name: Ice Cream Social
+    date: June 22, 2025 3-5pm
+    url: /events/updates/2025/06/14/2025-ice-cream-social.html
 ---
 
 ![Lake Evesham Neighborhood Sign](/img/sign.jpg)
