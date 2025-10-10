@@ -1,10 +1,7 @@
 ---
 layout: home
 list_title: Updates
-upcoming_events:
-  - name: Ice Cream Social
-    date: June 22, 2025 3-5pm
-    url: /events/updates/2025/06/14/2025-ice-cream-social.html
+upcoming_events: []
 ---
 
 ![Lake Evesham Neighborhood Sign](/img/sign.jpg)
