@@ -1,7 +1,10 @@
 ---
 layout: home
 list_title: Updates
-upcoming_events: []
+upcoming_events:
+  - name: Neighborhood Potluck
+    date: November 8, 4pm-7pm
+    url: /events/2025/10/29/it-s-potluck-time.html
 ---
 
 ![Lake Evesham Neighborhood Sign](/img/sign.jpg)
