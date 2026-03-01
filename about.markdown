@@ -17,11 +17,11 @@ In the 1890’s the northern three-quarters of the property was divided and held
 
 The neighborhood does not have a lake in it, as people sometimes mistakenly assume. Rather, the name comes from the Evesham Mansion that was built in the 1850’s and described as neo-gothic fantasy.
 The mansion was demolished in 1961. It was located near what is now the intersection of Northern Parkway and Tunstall Drive, east of York Road, in what was known as Drumquehastle Tract (from which the name Drumcastle is derived).
-The current neighborhood boundaries are Norther Parkway to the south, Lake Avenue to the north, York Road to the east and Bellona Avenue to the west.  
+The current neighborhood boundaries are Northern Parkway to the south, Lake Avenue to the north, York Road to the east and Bellona Avenue to the west.
 
 The initial houses in the neighborhood were built in the first decade of the twentieth century.
 Many of the frame cottages were built during the housing boom following World War I. Streets were unpaved until the 1920’s.
-By the late 1930’s all of the present streets were in place and most of the lots were improved.  
+By the late 1930’s all of the present streets were in place and most of the lots were improved.
 
 In 2004, the neighborhood was designated an Historic District with the National Registry due in part to the neighborhood’s architectural design and structure of its roads and homes.
 There are a variety of architectural styles, but the most frequently occurring style is the Bungalow, a one and one half story style that features a low-pitched gabled roof with wide unenclosed eave overhang.
@@ -50,9 +50,9 @@ Board of Directors
 
 <dl>
 <dt>President</dt>
-<dd>Steve Lingsch</dd>
+<dd>Malik Jordan</dd>
 <dt>Vice-President</dt>
-<dd>Tymoteusz Kaistura</dd>
+<dd>Mike Fielder</dd>
 <dt>Secretary</dt>
 <dd>Joel Carlin</dd>
 <dt>Treasurer</dt>
@@ -60,13 +60,12 @@ Board of Directors
 <dt>Members-at-Large</dt>
 <dd>
 <ul>
-<li>Malik Jordan</li>
-<li>Stephanie Seipp</li>
-<li>Amena Smith</li>
 <li>Darnell Henderson</li>
+<li>Andy McNeely</li>
+<li>Deborah Shapiro</li>
+<li>Stephanie Seipp</li>
+<li>Amena Fine</li>
 <li>Charlotte Walters</li>
-<li>Charlene Jordan</li>
-<li>Mike Fielder</li>
 </ul>
 </dd>
 </dl>
